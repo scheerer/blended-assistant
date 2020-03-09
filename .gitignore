@@ -1,0 +1,14 @@
+*.class
+*.iml
+.idea
+target
+/bin/
+/.settings/
+.project
+.classpath
+
+.ask
+
+# Serverless directories
+lambda/custom/.serverless
+
