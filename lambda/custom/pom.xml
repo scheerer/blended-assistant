@@ -9,7 +9,7 @@
   <name>blended-assistant</name>
 
   <properties>
-    <aws.sdk.version>1.11.735</aws.sdk.version>
+    <aws.sdk.version>1.12.261</aws.sdk.version>
     <alexa.sdk.version>2.28.0</alexa.sdk.version>
 
 
